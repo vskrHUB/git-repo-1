@@ -34,14 +34,6 @@
     <types>
         <members>standard__AppLauncher</members>
         <members>standard__Chatter</members>
-        <members>standard__Community</members>
-        <members>standard__Content</members>
-        <members>standard__Insights</members>
-        <members>standard__Marketing</members>
-        <members>standard__Platform</members>
-        <members>standard__Sales</members>
-        <members>standard__Service</members>
-        <members>standard__ServiceConsole</members>
         <members>standard__Sites</members>
         <members>standard__Work</members>
         <name>CustomApplication</name>
@@ -60,20 +52,6 @@
         <members>Case.Product__c</members>
         <members>Case.SLAViolation__c</members>
         <members>Contact.Languages__c</members>
-        <members>Contact.Level__c</members>
-        <members>Goal.OrigGoalId__c</members>
-        <members>Lead.CurrentGenerators__c</members>
-        <members>Lead.NumberofLocations__c</members>
-        <members>Lead.Primary__c</members>
-        <members>Lead.ProductInterest__c</members>
-        <members>Lead.SICCode__c</members>
-        <members>Metric.OrigMetricId__c</members>
-        <members>Opportunity.CurrentGenerators__c</members>
-        <members>Opportunity.DeliveryInstallationStatus__c</members>
-        <members>Opportunity.MainCompetitors__c</members>
-        <members>Opportunity.OrderNumber__c</members>
-        <members>Opportunity.TrackingNumber__c</members>
-        <members>a11__c.a11test__c</members>
         <members>a12__c.a12test__c</members>
         <members>a456__c.date_test__c</members>
         <members>as456__c.testfiled__c</members>
@@ -85,15 +63,6 @@
         <members>test456__c.testfield456__c</members>
         <members>test_a11__c.test_a11_filed__c</members>
         <name>CustomField</name>
-    </types>
-    <types>
-        <members>saitest1</members>
-        <members>saitest2</members>
-        <name>CustomLabel</name>
-    </types>
-    <types>
-        <members>CustomLabels</members>
-        <name>CustomLabels</name>
     </types>
     <types>
         <members>A56__c</members>
@@ -123,20 +92,6 @@
         <members>Idea</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
-        <members>Macro</members>
-        <members>MacroAction</members>
-        <members>MacroInstruction</members>
-        <members>Opportunity</members>
-        <members>OpportunityCompetitor</members>
-        <members>OpportunityContactRole</members>
-        <members>OpportunityLineItem</members>
-        <members>Order</members>
-        <members>OrderItem</members>
-        <members>PartnerRole</members>
-        <members>Pricebook2</members>
-        <members>PricebookEntry</members>
-        <members>Product2</members>
-        <members>Site</members>
         <members>SocialPersona</members>
         <members>Solution</members>
         <members>StreamingChannel</members>
