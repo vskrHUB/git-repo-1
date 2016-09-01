@@ -2,8 +2,6 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>Mergechk</members>
-        <members>SaiClass1</members>
-        <members>SaiClass2</members>
         <members>TestClass</members>
         <name>ApexClass</name>
     </types>
@@ -18,8 +16,6 @@
         <name>AssignmentRule</name>
     </types>
     <types>
-        <members>Case</members>
-        <members>Lead</members>
         <name>AssignmentRules</name>
     </types>
     <types>
@@ -49,19 +45,6 @@
     <types>
         <members>A56__c.testfiled__c</members>
         <members>Account.Active__c</members>
-        <members>Account.CustomerPriority__c</members>
-        <members>Account.NumberofLocations__c</members>
-        <members>Account.SLAExpirationDate__c</members>
-        <members>Account.SLASerialNumber__c</members>
-        <members>Account.SLA__c</members>
-        <members>Account.UpsellOpportunity__c</members>
-        <members>Case.EngineeringReqNumber__c</members>
-        <members>Case.PotentialLiability__c</members>
-        <members>Case.Product__c</members>
-        <members>Case.SLAViolation__c</members>
-        <members>Contact.Languages__c</members>
-        <members>Contact.Level__c</members>
-        <members>Goal.OrigGoalId__c</members>
         <members>Lead.CurrentGenerators__c</members>
         <members>Lead.NumberofLocations__c</members>
         <members>Lead.Primary__c</members>
@@ -97,16 +80,6 @@
     </types>
     <types>
         <members>A56__c</members>
-        <members>Account</members>
-        <members>AccountCleanInfo</members>
-        <members>AccountContactRole</members>
-        <members>Activity</members>
-        <members>Asset</members>
-        <members>AssistantProgress</members>
-        <members>Campaign</members>
-        <members>CampaignMember</members>
-        <members>Case</members>
-        <members>CaseContactRole</members>
         <members>Contact</members>
         <members>ContactCleanInfo</members>
         <members>ContentVersion</members>
@@ -137,21 +110,6 @@
         <members>PricebookEntry</members>
         <members>Product2</members>
         <members>Site</members>
-        <members>SocialPersona</members>
-        <members>Solution</members>
-        <members>StreamingChannel</members>
-        <members>Task</members>
-        <members>User</members>
-        <members>UserProvisioningRequest</members>
-        <members>a11__c</members>
-        <members>a12__c</members>
-        <members>a456__c</members>
-        <members>as456__c</members>
-        <members>b19__c</members>
-        <members>h453__c</members>
-        <members>saiobj1__c</members>
-        <members>saoibj2__c</members>
-        <members>test123__c</members>
         <members>test456__c</members>
         <members>test_a11__c</members>
         <name>CustomObject</name>
@@ -165,8 +123,6 @@
         <members>b19__c-en_US</members>
         <members>h453__c-en_US</members>
         <members>saiobj1__c-en_US</members>
-        <members>saoibj2__c-en_US</members>
-        <members>test123__c-en_US</members>
         <members>test456__c-en_US</members>
         <members>test_a11__c-en_US</members>
         <name>CustomObjectTranslation</name>
