@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>SPAccobj2</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>SPAccobj2s</value>
+    </caseValues>
+    <fields>
+        <label><!-- SAccFieldTest1 --></label>
+        <name>SAccFieldTest1__c</name>
+    </fields>
+    <fields>
+        <label><!-- SAccFieldTest2 --></label>
+        <name>SAccFieldTest2__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Please Enter a Value --></errorMessage>
+        <name>SValidationRule2</name>
+    </validationRules>
+</CustomObjectTranslation>
