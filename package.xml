@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>34.0</version>
     <types>
         <members>Mergechk</members>
         <members>TestClass</members>
@@ -9,9 +10,6 @@
         <members>AppSwitcher</members>
         <members>Salesforce1</members>
         <name>AppMenu</name>
-    </types>
-    <types>
-        <name>AssignmentRules</name>
     </types>
     <types>
         <members>Case</members>
@@ -40,13 +38,26 @@
         <members>Lead.ProductInterest__c</members>
         <members>Lead.SICCode__c</members>
         <members>Metric.OrigMetricId__c</members>
+        <members>a123__c.a123_label__c</members>
+        <members>a132__c.a132_label__c</members>
+        <members>a56__c.testfield__c</members>
+        <members>aw123__c.email_check__c</members>
+        <members>saiobj1__c.saiobj1filed1__c</members>
+        <members>saiobj2__c.saiobj2filed2__c</members>
         <members>test456__c.testfield456__c</members>
+        <members>test456__c.testfiled456__c</members>
+        <members>test_123__c.testfield__c</members>
         <members>test_a11__c.test_a11_filed__c</members>
+        <members>test_a11__c.test_all_field_1__c</members>
         <name>CustomField</name>
     </types>
     <types>
+        <members>sai123</members>
+        <members>sai_testing</members>
         <members>saitest1</members>
         <members>saitest2</members>
+        <members>test</members>
+        <members>test_new_label</members>
         <name>CustomLabel</name>
     </types>
     <types>
@@ -73,7 +84,12 @@
         <members>PricebookEntry</members>
         <members>Product2</members>
         <members>Site</members>
+        <members>a123__c</members>
+        <members>a132__c</members>
+        <members>aw123__c</members>
+        <members>saiobj2__c</members>
         <members>test456__c</members>
+        <members>test_123__c</members>
         <members>test_a11__c</members>
         <name>CustomObject</name>
     </types>
@@ -156,16 +172,21 @@
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
         <members>a11__c-a11 Layout</members>
+        <members>a123__c-a123 Layout</members>
         <members>a12__c-a12 Layout</members>
+        <members>a132__c-a132 Layout</members>
         <members>a456__c-a456 Layout</members>
         <members>a456__c-stest</members>
         <members>as456__c-as456 Layout</members>
+        <members>aw123__c-aw123 Layout</members>
         <members>b19__c-b19 Layout</members>
         <members>h453__c-h453 Layout</members>
         <members>saiobj1__c-saiobj1 Layout</members>
+        <members>saiobj2__c-saiobj2 Layout</members>
         <members>saoibj2__c-saoibj2 Layout</members>
         <members>test123__c-test123 Layout</members>
         <members>test456__c-test456 Layout</members>
+        <members>test_123__c-test123 Layout</members>
         <members>test_a11__c-test a11 Layout</members>
         <name>Layout</name>
     </types>
@@ -226,6 +247,12 @@
         <members>WorkFeedbackRequest.All</members>
         <members>WorkFeedbackTemplate.All</members>
         <name>ListView</name>
+    </types>
+    <types>
+        <members>Account.Standard_Account_Match_Rule_v1_0</members>
+        <members>Contact.Standard_Contact_Match_Rule_v1_1</members>
+        <members>Lead.Standard_Lead_Match_Rule_v1_0</members>
+        <name>MatchingRule</name>
     </types>
     <types>
         <members>Admin</members>
@@ -322,13 +349,6 @@
         <name>Role</name>
     </types>
     <types>
-        <members>Account.Billing</members>
-        <members>Campaign.ViewCampaignInfluenceReport</members>
-        <members>Case.UpsellCrosssellOpportunity</members>
-        <members>Opportunity.DeliveryStatus</members>
-        <name>WebLink</name>
-    </types>
-    <types>
         <members>Account</members>
         <members>Activities</members>
         <members>Address</members>
@@ -350,5 +370,39 @@
         <members>Security</members>
         <name>Settings</name>
     </types>
-    <version>32.0</version>
+    <types>
+        <members>a11__c</members>
+        <members>a123__c</members>
+        <members>a12__c</members>
+        <members>a132__c</members>
+        <members>a56__c</members>
+        <members>aw123__c</members>
+        <members>saiobj1__c</members>
+        <members>saiobj2__c</members>
+        <members>test456__c</members>
+        <members>test_123__c</members>
+        <members>test_a11__c</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>Account.Billing</members>
+        <members>Campaign.ViewCampaignInfluenceReport</members>
+        <members>Case.UpsellCrosssellOpportunity</members>
+        <members>Opportunity.DeliveryStatus</members>
+        <name>WebLink</name>
+    </types>
+    <types>
+        <members>a11__c</members>
+        <members>a123__c</members>
+        <members>a12__c</members>
+        <members>a132__c</members>
+        <members>a56__c</members>
+        <members>aw123__c</members>
+        <members>saiobj1__c</members>
+        <members>saiobj2__c</members>
+        <members>test456__c</members>
+        <members>test_123__c</members>
+        <members>test_a11__c</members>
+        <name>Workflow</name>
+    </types>
 </Package>

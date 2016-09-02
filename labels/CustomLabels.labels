@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>sai123</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>sai123</shortDescription>
+        <value>testing123 456</value>
+    </labels>
+    <labels>
+        <fullName>sai_testing</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>sai testing</shortDescription>
+        <value>testing for testing</value>
+    </labels>
+    <labels>
+        <fullName>saitest1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>saitest1</shortDescription>
+        <value>test1 1236</value>
+    </labels>
+    <labels>
+        <fullName>saitest2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>saitest2</shortDescription>
+        <value>test 2 chk 21</value>
+    </labels>
+    <labels>
+        <fullName>test</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>test</shortDescription>
+        <value>test456 chk93</value>
+    </labels>
+    <labels>
+        <fullName>test_new_label</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>test new label</shortDescription>
+        <value>test new labels</value>
+    </labels>
+</CustomLabels>
