@@ -2,28 +2,15 @@
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <custom>false</custom>
     <fieldPermissions>
-        <editable>true</editable>
-        <field>a123__c.a123_label__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>a132__c.a132_label__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
+        <editable>false</editable>
         <field>a9__c.a9_label__c</field>
-        <readable>true</readable>
+        <readable>false</readable>
     </fieldPermissions>
-    <layoutAssignments>
-        <layout>a123__c-a123 Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>a132__c-a132 Layout</layout>
-    </layoutAssignments>
     <layoutAssignments>
         <layout>a112__c-a112 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>a9__c-a9 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>a9__c-a9 Layout</layout>
@@ -34,13 +21,29 @@
         <recordType>a9__c.ap_label</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
-    <userLicense>XOrg Proxy User</userLicense>
+    <userLicense>Chatter External</userLicense>
     <userPermissions>
         <enabled>true</enabled>
-        <name>ChatterEditOwnPost</name>
+        <name>ApiEnabled</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>SelectFilesFromSalesforce</name>
+        <name>AssignTopics</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ChatterInviteExternalUsers</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>CreateTopics</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>EditTopics</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>LightningExperienceUser</name>
     </userPermissions>
 </Profile>
