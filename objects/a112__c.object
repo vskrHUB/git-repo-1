@@ -53,23 +53,12 @@
     <enableReports>false</enableReports>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <fields>
-        <fullName>testfield__c</fullName>
-        <externalId>false</externalId>
-        <label>testfield</label>
-        <length>56</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <label>A56</label>
+    <label>a112</label>
     <nameField>
-        <displayFormat>A-{0000}</displayFormat>
-        <label>a56 Name</label>
-        <type>AutoNumber</type>
+        <label>a11 Name</label>
+        <type>Text</type>
     </nameField>
-    <pluralLabel>A56s</pluralLabel>
+    <pluralLabel>a112s</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>

@@ -54,22 +54,24 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
-        <fullName>testfield__c</fullName>
+        <fullName>a9_label__c</fullName>
         <externalId>false</externalId>
-        <label>testfield</label>
-        <length>56</length>
+        <label>a9 label</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
+        <type>TextArea</type>
     </fields>
-    <label>A56</label>
+    <label>a9</label>
     <nameField>
-        <displayFormat>A-{0000}</displayFormat>
-        <label>a56 Name</label>
-        <type>AutoNumber</type>
+        <label>repolabel Name</label>
+        <type>Text</type>
     </nameField>
-    <pluralLabel>A56s</pluralLabel>
+    <pluralLabel>a9s</pluralLabel>
+    <recordTypes>
+        <fullName>a9_label</fullName>
+        <active>true</active>
+        <label>a9 label</label>
+    </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>
