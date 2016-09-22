@@ -25,15 +25,15 @@
         <fullName>saitest2</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>saitest2</shortDescription>
-        <value>test 2 chk 21</value>
+        <shortDescription>saitest2 56</shortDescription>
+        <value>test 2 chk 21 213456</value>
     </labels>
     <labels>
         <fullName>test</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>test</shortDescription>
-        <value>test456 chk93</value>
+        <shortDescription>test1</shortDescription>
+        <value>test456 chk93 556 7321</value>
     </labels>
     <labels>
         <fullName>test_new_label</fullName>

@@ -50,6 +50,7 @@
         <members>a56__c.testfield__c</members>
         <members>a9__c.a9_label__c</members>
         <members>aw123__c.email_check__c</members>
+        <members>saiobj123__c.saiobj1filed1__c</members>
         <members>saiobj1__c.saiobj1filed1__c</members>
         <members>saiobj2__c.saiobj2filed2__c</members>
         <members>test456__c.testfield456__c</members>
@@ -98,6 +99,7 @@
         <members>a56__c</members>
         <members>a9__c</members>
         <members>aw123__c</members>
+        <members>saiobj123__c</members>
         <members>saiobj1__c</members>
         <members>saiobj2__c</members>
         <members>test456__c</members>
@@ -197,6 +199,7 @@
         <members>aw123__c-aw123 Layout</members>
         <members>b19__c-b19 Layout</members>
         <members>h453__c-h453 Layout</members>
+        <members>saiobj123__c-saiobj1 Layout</members>
         <members>saiobj1__c-saiobj1 Layout</members>
         <members>saiobj2__c-saiobj2 Layout</members>
         <members>saoibj2__c-saoibj2 Layout</members>
@@ -396,6 +399,7 @@
         <members>a56__c</members>
         <members>a9__c</members>
         <members>aw123__c</members>
+        <members>saiobj123__c</members>
         <members>saiobj1__c</members>
         <members>saiobj2__c</members>
         <members>test456__c</members>
@@ -419,6 +423,7 @@
         <members>a56__c</members>
         <members>a9__c</members>
         <members>aw123__c</members>
+        <members>saiobj123__c</members>
         <members>saiobj1__c</members>
         <members>saiobj2__c</members>
         <members>test456__c</members>
