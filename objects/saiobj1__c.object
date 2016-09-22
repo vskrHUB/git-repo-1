@@ -54,30 +54,21 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
-        <fullName>a9_label__c</fullName>
+        <fullName>saiobj1field1__c</fullName>
         <externalId>false</externalId>
-        <label>a9 label</label>
+        <label>saiobj1field1</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
-        <type>Phone</type>
+        <type>Email</type>
+        <unique>false</unique>
     </fields>
-    <label>a9</label>
+    <label>saiobj1</label>
     <nameField>
-        <label>a9 Name123</label>
-        <type>Text</type>
+        <displayFormat>A-{0000}</displayFormat>
+        <label>saiobj1 Name</label>
+        <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>a9s</pluralLabel>
-    <recordTypes>
-        <fullName>ap_label</fullName>
-        <active>true</active>
-        <label>ap label</label>
-    </recordTypes>
-    <recordTypes>
-        <fullName>ap_labels</fullName>
-        <active>true</active>
-        <description>ap_label</description>
-        <label>ap label</label>
-    </recordTypes>
+    <pluralLabel>saiobj1s</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>

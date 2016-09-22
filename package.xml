@@ -69,6 +69,10 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>saitest2</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
         <members>A56__c</members>
         <members>Account</members>
         <members>AccountCleanInfo</members>
