@@ -363,6 +363,7 @@
         <members>Metric.Completion</members>
         <members>Metric.Progress</members>
         <members>a9__c.ap_label</members>
+        <members>a9__c.ap_labels</members>
         <name>RecordType</name>
     </types>
     <types>

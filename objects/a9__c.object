@@ -72,6 +72,12 @@
         <active>true</active>
         <label>ap label</label>
     </recordTypes>
+    <recordTypes>
+        <fullName>ap_labels</fullName>
+        <active>true</active>
+        <description>ap_label</description>
+        <label>ap label</label>
+    </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>
