@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>33.0</version>
+    <version>30.0</version>
     <types>
         <members>Mergechk</members>
         <members>SaiClass1</members>
@@ -53,6 +53,7 @@
         <members>Case.Product__c</members>
         <members>Case.SLAViolation__c</members>
         <members>Contact.Languages__c</members>
+        <members>a11__c.test1__c</members>
         <members>a123__c.a123_label__c</members>
         <members>a12__c.a12test__c</members>
         <members>a132__c.a132_label__c</members>
@@ -137,6 +138,28 @@
         <members>test456__c-en_US</members>
         <members>test_a11__c-en_US</members>
         <name>CustomObjectTranslation</name>
+    </types>
+    <types>
+        <members>Vuta_Folder/Vuta_Dashboard</members>
+        <members>Vuta_Folder/dashboard_1</members>
+        <members>Vuta_Folder/dashboard_3</members>
+        <members>Vuta_Folder/dashboard_4</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
+        <members>Vuta_Folder</members>
+        <members>Vuta_Folder/test33.URL</members>
+        <members>Vuta_Folder/test_1.URL</members>
+        <members>Vuta_Folder/test_3.URL</members>
+        <members>Vuta_Folder/test_36.URL</members>
+        <members>Vuta_Folder/test_91.URL</members>
+        <members>Vuta_Folder/test_99.URL</members>
+        <members>Vuta_Folder/tets12.URL</members>
+        <members>Vuta_Folder/tets79.URL</members>
+        <members>Vuta_Folder/tets_02.URL</members>
+        <members>test_2</members>
+        <members>test_2/test_2.URL</members>
+        <name>Document</name>
     </types>
     <types>
         <members>unfiled$public</members>
@@ -373,6 +396,16 @@
     <types>
         <members>ApexDevNet</members>
         <name>RemoteSiteSetting</name>
+    </types>
+    <types>
+        <members>Testing_Reports/report_jointed_1</members>
+        <members>Testing_Reports/report_matrix_1</members>
+        <members>Testing_Reports/reportsummary1</members>
+        <members>Testing_Reports/reportsummary2</members>
+        <members>Testing_Reports/test_dashboard_1</members>
+        <members>Testing_Reports/testingreport2</members>
+        <members>Testing_Reports/testreport1</members>
+        <name>Report</name>
     </types>
     <types>
         <members>CEO</members>
