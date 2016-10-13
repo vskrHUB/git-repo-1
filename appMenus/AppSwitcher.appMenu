@@ -5,10 +5,6 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>standard__Sales</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
         <name>standard__Service</name>
         <type>CustomApplication</type>
     </appMenuItems>
@@ -21,7 +17,6 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>standard__AppLauncher</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
@@ -30,14 +25,9 @@
     </appMenuItems>
     <appMenuItems>
         <name>standard__Sites</name>
-        <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
         <name>standard__Chatter</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__Content</name>
         <type>CustomApplication</type>
     </appMenuItems>
 </AppMenu>
