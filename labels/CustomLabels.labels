@@ -4,13 +4,9 @@
         <fullName>saitest1</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>saitest1</shortDescription>
-        <value>test copy 1</value>
     </labels>
     <labels>
         <fullName>saitest2</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
         <shortDescription>saitest2 123</shortDescription>
         <value>test 2 copy copy123</value>
     </labels>
