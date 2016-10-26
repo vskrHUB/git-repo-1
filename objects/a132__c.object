@@ -63,6 +63,9 @@
         <trackTrending>false</trackTrending>
         <type>Text</type>
         <unique>false</unique>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Url</type>
     </fields>
     <label>a132</label>
     <nameField>

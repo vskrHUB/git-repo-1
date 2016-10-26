@@ -106,6 +106,23 @@
         <recordType>a9__c.a9_label</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
+    <custom>false</custom>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>a123__c.a123_label__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>a132__c.a132_label__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <layoutAssignments>
+        <layout>a123__c-a123 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>a132__c-a132 Layout</layout>
+    </layoutAssignments>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>

@@ -68,6 +68,15 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>a12s</pluralLabel>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <label>a123</label>
+    <nameField>
+        <label>a123 Name</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>a123s</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>
