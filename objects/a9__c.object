@@ -75,7 +75,7 @@
     </fields>
     <label>a9</label>
     <nameField>
-        <label>a9 Name</label>
+        <label>a9 Name123</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>a9s</pluralLabel>
