@@ -78,6 +78,9 @@
         <editable>true</editable>
         <field>test_a11__c.test_all_field_1__c</field>
         <readable>true</readable>
+        <editable>false</editable>
+        <field>a9__c.a9_label__c</field>
+        <readable>false</readable>
     </fieldPermissions>
     <layoutAssignments>
         <layout>a123__c-a123 Layout</layout>
@@ -86,6 +89,15 @@
         <layout>a132__c-a132 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>a112__c-a112 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>a9__c-a9 Layout</layout>
+        <recordType>a9__c.ap_label</recordType>
+    </layoutAssignments>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>a9__c.ap_label</recordType>
         <layout>aw123__c-aw123 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>

@@ -71,6 +71,18 @@
         <fullName>a9_label</fullName>
         <active>true</active>
         <label>a9 label</label>
+        <type>Phone</type>
+    </fields>
+    <label>a9</label>
+    <nameField>
+        <label>a9 Name</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>a9s</pluralLabel>
+    <recordTypes>
+        <fullName>ap_label</fullName>
+        <active>true</active>
+        <label>ap label</label>
     </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>

@@ -57,6 +57,25 @@
     <recordTypeVisibilities>
         <default>true</default>
         <recordType>a9__c.a9_label</recordType>
+    <custom>false</custom>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>a9__c.a9_label__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <layoutAssignments>
+        <layout>a112__c-a112 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>a9__c-a9 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>a9__c-a9 Layout</layout>
+        <recordType>a9__c.ap_label</recordType>
+    </layoutAssignments>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>a9__c.ap_label</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
     <userLicense>Chatter External</userLicense>

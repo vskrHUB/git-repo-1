@@ -11,12 +11,33 @@
         <field>a132__c.a132_label__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>a9__c.a9_label__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>a123__c-a123 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>a132__c-a132 Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>a112__c-a112 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>a9__c-a9 Layout</layout>
+        <recordType>a9__c.ap_label</recordType>
+    </layoutAssignments>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>a112__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
     <objectPermissions>
         <allowCreate>false</allowCreate>
         <allowDelete>false</allowDelete>
@@ -220,6 +241,18 @@
     <recordTypeVisibilities>
         <default>true</default>
         <recordType>a9__c.a9_label</recordType>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>a9__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>a9__c.ap_label</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
     <userLicense>Analytics Cloud Integration User</userLicense>
