@@ -88,3 +88,4 @@
         <name>WorkDotComUserPerm</name>
     </userPermissions>
 </Profile>
+</Profile>

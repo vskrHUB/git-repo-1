@@ -22,6 +22,52 @@
     <layoutAssignments>
         <layout>a132__c-a132 Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>a112__c-a112 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>a9__c-a9 Layout</layout>
+        <recordType>a9__c.ap_label</recordType>
+    </layoutAssignments>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>a9__c.ap_label</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <userLicense>Silver Partner</userLicense>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>AssignTopics</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ChatterOwnGroups</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>EditTask</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>EnableNotifications</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>IPRestrictRequests</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>RunReports</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>SelectFilesFromSalesforce</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>WorkDotComUserPerm</name>
+    </userPermissions>
+</Profile>
     <classAccesses>
         <apexClass>Sai123Class2</apexClass>
         <enabled>false</enabled>
