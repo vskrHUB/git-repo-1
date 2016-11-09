@@ -47,29 +47,26 @@
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>false</enableActivities>
-    <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
-    <enableSharing>true</enableSharing>
-    <enableStreamingApi>true</enableStreamingApi>
     <fields>
-        <fullName>testfield__c</fullName>
+        <fullName>testfiled__c</fullName>
         <externalId>false</externalId>
-        <label>testfield</label>
-        <length>56</length>
+        <label>testfiled</label>
+        <precision>18</precision>
         <required>false</required>
+        <scale>0</scale>
         <trackTrending>false</trackTrending>
-        <type>Text</type>
+        <type>Number</type>
         <unique>false</unique>
     </fields>
     <label>A56</label>
     <nameField>
-        <displayFormat>A-{0000}</displayFormat>
-        <label>a56 Name</label>
-        <type>AutoNumber</type>
+        <label>A56 Name</label>
+        <type>Text</type>
     </nameField>
-    <pluralLabel>A56s</pluralLabel>
+    <pluralLabel>a56s</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>

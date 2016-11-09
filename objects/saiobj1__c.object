@@ -54,12 +54,55 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
+        <fullName>saiobj1field1__c</fullName>
+        <externalId>false</externalId>
+        <label>saiobj1field1</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <label>saiobj1</label>
+    <nameField>
+        <displayFormat>A-{0000}</displayFormat>
+        <label>saiobj1 Name</label>
+        <type>AutoNumber</type>
+    </nameField>
+    <pluralLabel>saiobj1s</pluralLabel>
+    <searchLayouts/>
+    <sharingModel>ReadWrite</sharingModel>
+</CustomObject>
         <fullName>saiobj1filed1__c</fullName>
         <externalId>false</externalId>
         <label>saiobj1filed1</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Phone</type>
+        <fullName>saiobj1field1__c</fullName>
+        <externalId>false</externalId>
+        <label>saiobj1field1</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <label>saiobj1</label>
+    <nameField>
+        <displayFormat>A-{0000}</displayFormat>
+        <label>saiobj1 Name</label>
+        <type>AutoNumber</type>
+    </nameField>
+    <pluralLabel>saiobj1s</pluralLabel>
+    <searchLayouts/>
+    <sharingModel>ReadWrite</sharingModel>
+</CustomObject>
+        <fullName>saiobj1field1__c</fullName>
+        <externalId>false</externalId>
+        <label>saiobj1field1</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
     </fields>
     <label>saiobj1</label>
     <nameField>
