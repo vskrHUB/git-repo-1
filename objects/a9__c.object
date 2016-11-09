@@ -59,6 +59,40 @@
         <label>a9 label</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <label>a9</label>
+    <nameField>
+        <label>repolabel Name</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>a9s</pluralLabel>
+    <recordTypes>
+        <fullName>a9_label</fullName>
+        <active>true</active>
+        <label>a9 label</label>
+        <type>Phone</type>
+    </fields>
+    <label>a9</label>
+    <nameField>
+        <label>a9 Name123</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>a9s</pluralLabel>
+    <recordTypes>
+        <fullName>ap_label</fullName>
+        <active>true</active>
+        <label>ap label</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>ap_labels</fullName>
+        <active>true</active>
+        <description>ap_label</description>
+        <label>ap label</label>
+    </recordTypes>
+    <searchLayouts/>
+    <sharingModel>ReadWrite</sharingModel>
+</CustomObject>
         <type>Phone</type>
     </fields>
     <label>a9</label>
