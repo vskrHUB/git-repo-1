@@ -6,6 +6,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>standard__Sites</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
         <members>Contact.Level__c</members>
         <members>Lead.Primary__c</members>
         <name>CustomField</name>
