@@ -3,6 +3,7 @@
     <version>39.0</version>
     <types>
         <members>standard__AppLauncher</members>
+        <members>standard__Chatter</members>
         <name>CustomApplication</name>
     </types>
 </Package>
