@@ -474,6 +474,13 @@
     <types>
         <members>standard__AppLauncher</members>
         <members>standard__Chatter</members>
+        <members>standard__Content</members>
+        <members>standard__Insights</members>
+        <members>standard__Marketing</members>
+        <members>standard__Platform</members>
+        <members>standard__Sales</members>
+        <members>standard__Service</members>
+        <members>standard__ServiceConsole</members>
         <members>standard__Sites</members>
         <members>standard__Work</members>
         <name>CustomApplication</name>
