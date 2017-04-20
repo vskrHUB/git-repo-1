@@ -4,6 +4,7 @@
     <types>
         <members>Mergechk</members>
         <members>Sai123Class2</members>
+        <members>SaiClass1</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -14,5 +15,17 @@
         <members>Contact.Level__c</members>
         <members>Lead.Primary__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>unfiled$public/MarketingProductInquiryResponse</members>
+        <members>unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
+        <members>unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE</members>
+        <name>EmailTemplate</name>
+    </types>
+    <types>
+        <members>Account.AllAccounts</members>
+        <members>Account.MyAccounts</members>
+        <members>Account.NewLastWeek</members>
+        <name>ListView</name>
     </types>
 </Package>
