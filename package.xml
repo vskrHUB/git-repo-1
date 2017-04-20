@@ -17,9 +17,17 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Vuta_Folder/dashboard_1</members>
+        <members>Vuta_Folder/dashboard_3</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
         <members>unfiled$public/MarketingProductInquiryResponse</members>
         <members>unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
         <members>unfiled$public/SUPPORTSelfServiceNewUserLoginInformationSAMPLE</members>
+        <members>unfiled$public/SupportCaseAssignmentNotification</members>
+        <members>unfiled$public/SupportCaseCreatedPhoneInquiries</members>
+        <members>unfiled$public/SupportCaseCreatedWebInquiries</members>
         <name>EmailTemplate</name>
     </types>
     <types>
