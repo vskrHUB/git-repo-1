@@ -3,25 +3,31 @@
     <enableFeeds>false</enableFeeds>
     <fields>
         <fullName>Role</fullName>
-        <picklist>
-            <picklistValues>
-                <fullName>Technical Contact</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>Business Contact</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>Decision Maker</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>Other</fullName>
-                <default>false</default>
-            </picklistValues>
-            <sorted>false</sorted>
-        </picklist>
         <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Technical Contact</fullName>
+                    <default>false</default>
+                    <label>Technical Contact</label>
+                </value>
+                <value>
+                    <fullName>Business Contact</fullName>
+                    <default>false</default>
+                    <label>Business Contact</label>
+                </value>
+                <value>
+                    <fullName>Decision Maker</fullName>
+                    <default>false</default>
+                    <label>Decision Maker</label>
+                </value>
+                <value>
+                    <fullName>Other</fullName>
+                    <default>false</default>
+                    <label>Other</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
     </fields>
 </CustomObject>
