@@ -61,14 +61,17 @@
     </fields>
     <fields>
         <fullName>ProductFamily</fullName>
-        <picklist>
-            <picklistValues>
-                <fullName>None</fullName>
-                <default>false</default>
-            </picklistValues>
-            <sorted>false</sorted>
-        </picklist>
         <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>None</fullName>
+                    <default>false</default>
+                    <label>None</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
     </fields>
     <fields>
         <fullName>RootAssetId</fullName>
@@ -77,31 +80,38 @@
     </fields>
     <fields>
         <fullName>Status</fullName>
-        <picklist>
-            <picklistValues>
-                <fullName>Shipped</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>Installed</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>Registered</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>Obsolete</fullName>
-                <default>false</default>
-            </picklistValues>
-            <picklistValues>
-                <fullName>Purchased</fullName>
-                <default>false</default>
-            </picklistValues>
-            <sorted>false</sorted>
-        </picklist>
         <trackHistory>false</trackHistory>
         <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Shipped</fullName>
+                    <default>false</default>
+                    <label>Shipped</label>
+                </value>
+                <value>
+                    <fullName>Installed</fullName>
+                    <default>false</default>
+                    <label>Installed</label>
+                </value>
+                <value>
+                    <fullName>Registered</fullName>
+                    <default>false</default>
+                    <label>Registered</label>
+                </value>
+                <value>
+                    <fullName>Obsolete</fullName>
+                    <default>false</default>
+                    <label>Obsolete</label>
+                </value>
+                <value>
+                    <fullName>Purchased</fullName>
+                    <default>false</default>
+                    <label>Purchased</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
     </fields>
     <listViews>
         <fullName>AllAssets</fullName>
