@@ -9,6 +9,14 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Lead.Standard</members>
+        <name>AssignmentRule</name>
+    </types>
+    <types>
+        <members>Lead</members>
+        <name>AssignmentRules</name>
+    </types>
+    <types>
         <members>standard__Sites</members>
         <name>CustomApplication</name>
     </types>
