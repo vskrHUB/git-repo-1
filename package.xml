@@ -2,6 +2,8 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>39.0</version>
     <types>
+        <members>Mergechk</members>
+        <members>Sai123Class2</members>
         <members>Sai159753Class2</members>
         <members>Sai456Class2</members>
         <members>SaiClas2s2</members>

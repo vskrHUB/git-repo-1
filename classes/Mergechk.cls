@@ -1,5 +1,5 @@
 public Class Mergechk
 {
-//method to create account
-//method chk
+//method to create accocunt
+//this is comment
 }
