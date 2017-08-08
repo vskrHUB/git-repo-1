@@ -27,6 +27,8 @@
     <types>
         <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
+        <members>Account.SLAExpirationDate__c</members>
+        <members>Account.SLASerialNumber__c</members>
         <members>Contact.Level__c</members>
         <members>Lead.Primary__c</members>
         <name>CustomField</name>
