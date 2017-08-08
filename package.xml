@@ -7,6 +7,7 @@
         <members>Sai123Class2</members>
         <members>SaiClass1</members>
         <members>SaiClass2</members>
+        <members>test456</members>
         <members>test78</members>
         <members>test782</members>
         <name>ApexClass</name>
@@ -24,6 +25,8 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>Account.AccountSource</members>
+        <members>Account.Active__c</members>
         <members>Contact.Level__c</members>
         <members>Lead.Primary__c</members>
         <name>CustomField</name>
@@ -32,6 +35,10 @@
         <members>Vuta_Folder/dashboard_1</members>
         <members>Vuta_Folder/dashboard_3</members>
         <name>Dashboard</name>
+    </types>
+    <types>
+        <members>test_2/test_2.URL</members>
+        <name>Document</name>
     </types>
     <types>
         <members>unfiled$public/MarketingProductInquiryResponse</members>
