@@ -48,6 +48,7 @@
         <name>Dashboard</name>
     </types>
     <types>
+        <members>Vuta_Folder</members>
         <members>Vuta_Folder/test33.URL</members>
         <members>test_2/test_2.URL</members>
         <name>Document</name>
