@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
+        <fullName>saitest2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>saitest2 123</shortDescription>
+        <value>test 2 copy copy123</value>
+    </labels>
+</CustomLabels>
         <fullName>sai123</fullName>
         <language>en_US</language>
         <protected>true</protected>
