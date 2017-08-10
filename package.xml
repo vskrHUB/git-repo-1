@@ -2,11 +2,20 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>39.0</version>
     <types>
+        <members>ApexTestCodeCoverageClass1</members>
+        <members>ApexTestCodeCoverageClass2</members>
+        <members>Apex_Class1</members>
+        <members>Apex_Class2</members>
         <members>Mergechk</members>
         <members>Mergechk23</members>
         <members>Sai123Class2</members>
         <members>SaiClass1</members>
+        <members>SaiClass12</members>
         <members>SaiClass2</members>
+        <members>SaiClassChk1</members>
+        <members>SaiClassChk2</members>
+        <members>SaiClassChk3</members>
+        <members>TestClass</members>
         <members>test456</members>
         <members>test78</members>
         <members>test782</members>
@@ -39,6 +48,7 @@
         <name>Dashboard</name>
     </types>
     <types>
+        <members>Vuta_Folder/test33.URL</members>
         <members>test_2/test_2.URL</members>
         <name>Document</name>
     </types>
