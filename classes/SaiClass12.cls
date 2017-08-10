@@ -1,8 +1,8 @@
 @isTest
 public Class SaiClass12
 {
-public Account createAccount(String name)  //method to create account
-{
+public Account createAccount(String name)  
+{//method to create account
 //Add comment for Account A1
 Account a121 = new Account();
 a121.Name = name;
