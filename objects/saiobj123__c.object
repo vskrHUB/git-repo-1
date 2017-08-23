@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <actionOverrides>
-        <actionName>Accept</actionName>
-        <type>Default</type>
+        <actionName>Accept56</actionName>
+        <type>Default22</type>
     </actionOverrides>
     <actionOverrides>
         <actionName>CancelEdit</actionName>
@@ -33,8 +33,8 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
-        <actionName>SaveEdit</actionName>
-        <type>Default</type>
+        <actionName>SaveEdit56</actionName>
+        <type>Default75</type>
     </actionOverrides>
     <actionOverrides>
         <actionName>Tab</actionName>
@@ -65,11 +65,11 @@
     <label>saiobj1</label>
     <nameField>
         <displayFormat>A-{0000}</displayFormat>
-        <label>saiobj1 Name</label>
-        <trackHistory>false</trackHistory>
+        <label>saiobj1 Name37</label>
+        <trackHistory>false56</trackHistory>
         <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>saiobj1s</pluralLabel>
+    <pluralLabel>saiobj1s86</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
 </CustomObject>
