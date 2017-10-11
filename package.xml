@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>39.0</version>
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>ApexTestCodeCoverageClass1</members>
         <members>ApexTestCodeCoverageClass2</members>
@@ -34,12 +32,90 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>A56__c.tesete__c</members>
         <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
+        <members>Account.CleanStatus</members>
+        <members>Account.CustomerPriority__c</members>
+        <members>Account.Industry</members>
+        <members>Account.Ownership</members>
+        <members>Account.Rating</members>
         <members>Account.SLAExpirationDate__c</members>
         <members>Account.SLASerialNumber__c</members>
+        <members>Account.SLA__c</members>
+        <members>Account.Type</members>
+        <members>Account.UpsellOpportunity__c</members>
+        <members>AccountContactRole.Role</members>
+        <members>Asset.Status</members>
+        <members>Campaign.Status</members>
+        <members>Campaign.Type</members>
+        <members>CampaignMember.LeadSource</members>
+        <members>CampaignMember.Salutation</members>
+        <members>CampaignMember.Status</members>
+        <members>Case.Origin</members>
+        <members>Case.PotentialLiability__c</members>
+        <members>Case.Priority</members>
+        <members>Case.Product__c</members>
+        <members>Case.Reason</members>
+        <members>Case.SLAViolation__c</members>
+        <members>Case.Status</members>
+        <members>Case.Type</members>
+        <members>CaseContactRole.Role</members>
+        <members>Contact.CleanStatus</members>
+        <members>Contact.LeadSource</members>
         <members>Contact.Level__c</members>
+        <members>ContentVersion.SharingOption</members>
+        <members>Contract.OwnerExpirationNotice</members>
+        <members>Contract.Status</members>
+        <members>ContractContactRole.Role</members>
+        <members>DandBCompany.CompanyCurrencyIsoCode</members>
+        <members>DandBCompany.CurrencyCode</members>
+        <members>DandBCompany.EmployeesHereReliability</members>
+        <members>DandBCompany.EmployeesTotalReliability</members>
+        <members>DandBCompany.GeoCodeAccuracy</members>
+        <members>DandBCompany.ImportExportAgent</members>
+        <members>DandBCompany.LegalStatus</members>
+        <members>DandBCompany.LocationStatus</members>
+        <members>DandBCompany.MarketingPreScreen</members>
+        <members>DandBCompany.MarketingSegmentationCluster</members>
+        <members>DandBCompany.MinorityOwned</members>
+        <members>DandBCompany.NationalIdType</members>
+        <members>DandBCompany.OutOfBusiness</members>
+        <members>DandBCompany.OwnOrRent</members>
+        <members>DandBCompany.PublicIndicator</members>
+        <members>DandBCompany.SalesVolumeReliability</members>
+        <members>DandBCompany.SmallBusiness</members>
+        <members>DandBCompany.Subsidiary</members>
+        <members>DandBCompany.WomenOwned</members>
+        <members>EmailMessage.Status</members>
+        <members>EmailMessage.ValidatedFromAddress</members>
+        <members>Event.EventSubtype</members>
+        <members>Event.ShowAs</members>
+        <members>Lead.CleanStatus</members>
+        <members>Lead.Industry</members>
+        <members>Lead.LeadSource</members>
         <members>Lead.Primary__c</members>
+        <members>Lead.ProductInterest__c</members>
+        <members>Lead.Rating</members>
+        <members>Lead.Status</members>
+        <members>Opportunity.DeliveryInstallationStatus__c</members>
+        <members>Opportunity.LeadSource</members>
+        <members>Opportunity.StageName</members>
+        <members>Opportunity.Type</members>
+        <members>OpportunityContactRole.Role</members>
+        <members>Order.Type</members>
+        <members>Product2.Family</members>
+        <members>Product2.QuantityUnitOfMeasure</members>
+        <members>Solution.Status</members>
+        <members>Task.CallType</members>
+        <members>Task.Priority</members>
+        <members>Task.RecurrenceRegeneratedType</members>
+        <members>Task.Status</members>
+        <members>Task.TaskSubtype</members>
+        <members>UserProvisioningRequest.ApprovalStatus</members>
+        <members>UserProvisioningRequest.Operation</members>
+        <members>UserProvisioningRequest.State</members>
+        <members>a11__c.test1__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -63,9 +139,39 @@
         <name>EmailTemplate</name>
     </types>
     <types>
+        <members>test1</members>
+        <name>GlobalValueSet</name>
+    </types>
+    <types>
+        <members>A56__c-A56 Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>Account.AllAccounts</members>
         <members>Account.MyAccounts</members>
         <members>Account.NewLastWeek</members>
         <name>ListView</name>
     </types>
+    <types>
+        <members>Admin</members>
+        <members>Analytics Cloud Integration User</members>
+        <members>Analytics Cloud Security User</members>
+        <members>ContractManager</members>
+        <members>Cross Org Data Proxy User</members>
+        <members>Custom%3A Marketing Profile</members>
+        <members>Custom%3A Sales Profile</members>
+        <members>Custom%3A Support Profile</members>
+        <members>Force%2Ecom - App Subscription User</members>
+        <members>Force%2Ecom - Free User</members>
+        <members>Identity User</members>
+        <members>MarketingProfile</members>
+        <members>Partner App Subscription User</members>
+        <members>ReadOnly</members>
+        <members>SolutionManager</members>
+        <members>Standard</members>
+        <members>StandardAul</members>
+        <members>Work%2Ecom Only User</members>
+        <name>Profile</name>
+    </types>
+    <version>40.0</version>
 </Package>

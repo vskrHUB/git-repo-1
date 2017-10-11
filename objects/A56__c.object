@@ -51,6 +51,18 @@
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
     <fields>
+        <fullName>tesete__c</fullName>
+        <externalId>false</externalId>
+        <label>tesete</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetName>test1</valueSetName>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>testfiled__c</fullName>
         <externalId>false</externalId>
         <label>testfiled</label>
