@@ -67,6 +67,8 @@
         <members>Contact.CleanStatus</members>
         <members>Contact.LeadSource</members>
         <members>Contact.Level__c</members>
+        <members>ContactCleanInfo.ContactStatusDataDotCom</members>
+        <members>ContactCleanInfo.GeocodeAccuracy</members>
         <members>ContentVersion.SharingOption</members>
         <members>Contract.OwnerExpirationNotice</members>
         <members>Contract.Status</members>
