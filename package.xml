@@ -35,6 +35,7 @@
     </types>
     <types>
         <members>A56__c.tesete__c</members>
+        <members>A56__c.testfiled__c</members>
         <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
         <members>Account.CleanStatus</members>
