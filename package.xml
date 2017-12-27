@@ -18,9 +18,14 @@
         <members>SaiClassChk2</members>
         <members>SaiClassChk3</members>
         <members>TestClass</members>
+        <members>checkforaddl</members>
         <members>test456</members>
         <members>test78</members>
         <members>test782</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>A56__c.tesete__c</members>
+        <name>CustomField</name>
     </types>
 </Package>
