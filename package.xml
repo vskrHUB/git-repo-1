@@ -25,6 +25,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>TestTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
         <members>A56__c.tesete__c</members>
         <name>CustomField</name>
     </types>
