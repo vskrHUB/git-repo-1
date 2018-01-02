@@ -30,6 +30,7 @@
     </types>
     <types>
         <members>A56__c.tesete__c</members>
+        <members>A56__c.testfiled__c</members>
         <name>CustomField</name>
     </types>
 </Package>
