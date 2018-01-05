@@ -112,5 +112,10 @@
         <members>a11__c.test1__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>L2</members>
+        <members>l1</members>
+        <name>CustomLabel</name>
+    </types>
     <version>40.0</version>
 </Package>
