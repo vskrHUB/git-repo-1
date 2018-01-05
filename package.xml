@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>39.0</version>
     <types>
         <members>ApexTestCodeCoverageClass1</members>
         <members>ApexTestCodeCoverageClass2</members>
@@ -23,6 +25,7 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>AccountTrigger</members>
         <members>TestTrigger</members>
         <name>ApexTrigger</name>
     </types>
@@ -117,5 +120,4 @@
         <members>l1</members>
         <name>CustomLabel</name>
     </types>
-    <version>40.0</version>
 </Package>
