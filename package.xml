@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>39.0</version>
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>ApexTestCodeCoverageClass1</members>
         <members>ApexTestCodeCoverageClass2</members>
@@ -118,6 +116,9 @@
     <types>
         <members>L2</members>
         <members>l1</members>
+        <members>test_03</members>
+        <members>test_04</members>
         <name>CustomLabel</name>
     </types>
+    <version>40.0</version>
 </Package>
