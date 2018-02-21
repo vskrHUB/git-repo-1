@@ -122,4 +122,9 @@
         <members>test_04</members>
         <name>CustomLabel</name>
     </types>
+    <types>
+        <members>TemplateFolder1/MarketingProductInquiryResponse</members>
+        <members>TemplateFolder1/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
+        <name>EmailTemplate</name>
+    </types>
 </Package>
