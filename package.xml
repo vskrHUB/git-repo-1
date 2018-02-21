@@ -131,6 +131,8 @@
         <members>TemplateFolder1/SupportCaseAssignmentNotification</members>
         <members>TemplateFolder1/SupportCaseCreatedPhoneInquiries</members>
         <members>TemplateFolder1/SupportCaseCreatedWebInquiries</members>
+        <members>unfiled$public/SupportCaseResponse</members>
+        <members>unfiled$public/SupportEscalatedCaseNotification</members>
         <name>EmailTemplate</name>
     </types>
 </Package>
