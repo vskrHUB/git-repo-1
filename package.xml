@@ -127,6 +127,8 @@
         <members>TemplateFolder1/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
         <members>TemplateFolder1/SUPPORTSelfServiceNewUserLoginInformationSAMPLE</members>
         <members>TemplateFolder1/SUPPORTSelfServiceResetPasswordSAMPLE</members>
+        <members>TemplateFolder1/SupportCaseAssignmentNotification</members>
+        <members>TemplateFolder1/SupportCaseCreatedPhoneInquiries</members>
         <name>EmailTemplate</name>
     </types>
 </Package>
