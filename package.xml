@@ -125,6 +125,8 @@
     <types>
         <members>TemplateFolder1/MarketingProductInquiryResponse</members>
         <members>TemplateFolder1/SUPPORTSelfServiceNewCommentNotificationSAMPLE</members>
+        <members>TemplateFolder1/SUPPORTSelfServiceNewUserLoginInformationSAMPLE</members>
+        <members>TemplateFolder1/SUPPORTSelfServiceResetPasswordSAMPLE</members>
         <name>EmailTemplate</name>
     </types>
 </Package>
