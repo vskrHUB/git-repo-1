@@ -1,52 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
-        <fullName>saitest2</fullName>
+        <fullName>L2</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>saitest2 123</shortDescription>
-        <value>test 2 copy copy123</value>
-    </labels>
-</CustomLabels>
-        <fullName>sai123</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>sai123</shortDescription>
-        <value>testing123 456</value>
+        <shortDescription>L2</shortDescription>
+        <value>2</value>
     </labels>
     <labels>
-        <fullName>sai_testing</fullName>
+        <fullName>l1</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>sai testing</shortDescription>
-        <value>testing for testing</value>
+        <shortDescription>l1</shortDescription>
+        <value>1</value>
     </labels>
     <labels>
         <fullName>saitest1</fullName>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>saitest1</shortDescription>
-        <value>test1 1236</value>
+        <value>test copy 1</value>
     </labels>
     <labels>
         <fullName>saitest2</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>saitest2 56</shortDescription>
-        <value>test 2 chk 21 213456</value>
+        <shortDescription>saitest2 123</shortDescription>
+        <value>test 2 copy copy123</value>
     </labels>
     <labels>
-        <fullName>test</fullName>
+        <fullName>test1</fullName>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>test1</shortDescription>
-        <value>test456 chk93 556 7321</value>
+        <value>test1</value>
     </labels>
     <labels>
-        <fullName>test_new_label</fullName>
+        <fullName>test2</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>test new label</shortDescription>
-        <value>test new labels</value>
+        <shortDescription>test2</shortDescription>
+        <value>test2</value>
+    </labels>
+    <labels>
+        <fullName>test_03</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>test 03</shortDescription>
+        <value>test 03</value>
+    </labels>
+    <labels>
+        <fullName>test_04</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>test 04</shortDescription>
+        <value>test 04</value>
     </labels>
 </CustomLabels>

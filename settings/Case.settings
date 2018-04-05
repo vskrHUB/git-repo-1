@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CaseSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseAssignNotificationTemplate>TemplateFolder1/SupportCaseAssignmentNotification</caseAssignNotificationTemplate>
+    <caseCreateNotificationTemplate>TemplateFolder1/SupportCaseCreatedPhoneInquiries</caseCreateNotificationTemplate>
+    <caseFeedItemSettings>
+        <characterLimit>400</characterLimit>
+        <collapseThread>true</collapseThread>
+        <displayFormat>Default</displayFormat>
+        <feedItemType>EmailMessageEvent</feedItemType>
+    </caseFeedItemSettings>
+    <closeCaseThroughStatusChange>false</closeCaseThroughStatusChange>
+    <defaultCaseOwner>vskr.dev1@autorabit.com</defaultCaseOwner>
+    <defaultCaseOwnerType>User</defaultCaseOwnerType>
+    <defaultCaseUser>vskr.dev1@autorabit.com</defaultCaseUser>
+    <emailToCase>
+        <enableEmailToCase>false</enableEmailToCase>
+    </emailToCase>
+    <enableCaseFeed>true</enableCaseFeed>
+    <enableEarlyEscalationRuleTriggers>false</enableEarlyEscalationRuleTriggers>
+    <enableSuggestedSolutions>true</enableSuggestedSolutions>
+    <notifyContactOnCaseComment>false</notifyContactOnCaseComment>
+    <notifyDefaultCaseOwner>false</notifyDefaultCaseOwner>
+    <notifyOwnerOnCaseComment>false</notifyOwnerOnCaseComment>
+    <notifyOwnerOnCaseOwnerChange>false</notifyOwnerOnCaseOwnerChange>
+    <showEmailAttachmentsInCaseAttachmentsRL>true</showEmailAttachmentsInCaseAttachmentsRL>
+    <useSystemEmailAddress>true</useSystemEmailAddress>
+    <useSystemUserAsDefaultCaseUser>false</useSystemUserAsDefaultCaseUser>
+    <webToCase>
+        <caseOrigin>Web</caseOrigin>
+        <defaultResponseTemplate>TemplateFolder1/SupportCaseCreatedWebInquiries</defaultResponseTemplate>
+        <enableWebToCase>true</enableWebToCase>
+    </webToCase>
+</CaseSettings>

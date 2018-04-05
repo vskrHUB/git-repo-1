@@ -21,10 +21,6 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
-        <actionName>Follow</actionName>
-        <type>Default</type>
-    </actionOverrides>
-    <actionOverrides>
         <actionName>List</actionName>
         <type>Default</type>
     </actionOverrides>
@@ -49,9 +45,11 @@
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
+    <enableChangeDataCapture>false</enableChangeDataCapture>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
+    <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
@@ -60,14 +58,6 @@
         <label>a123 label</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
-        <type>Date</type>
-    </fields>
-    <label>a123</label>
-    <nameField>
-        <label>a12 Name</label>
-        <type>Text</type>
-    </nameField>
-    <pluralLabel>a12s</pluralLabel>
         <type>Email</type>
         <unique>false</unique>
     </fields>
@@ -79,16 +69,5 @@
     <pluralLabel>a123s</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
-</CustomObject>
-        <type>Email</type>
-        <unique>false</unique>
-    </fields>
-    <label>a123</label>
-    <nameField>
-        <label>a123 Name</label>
-        <type>Text</type>
-    </nameField>
-    <pluralLabel>a123s</pluralLabel>
-    <searchLayouts/>
-    <sharingModel>ReadWrite</sharingModel>
+    <visibility>Public</visibility>
 </CustomObject>
