@@ -5,6 +5,7 @@
         <members>ApexTestCodeCoverageClass1</members>
         <members>ApexTestCodeCoverageClass2</members>
         <members>Apex_Class1</members>
+        <members>Apex_Class2</members>
         <members>Mergechk</members>
         <members>Mergechk23</members>
         <name>ApexClass</name>
