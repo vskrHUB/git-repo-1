@@ -1,6 +1,6 @@
 public Class Mergechk
 {
-//method to create accocunt hujijcoiencoi
+//changes to commit
 //this is comment uwiucwhqduhqoid
 //change for chk
 //more editing
