@@ -1,4 +1,4 @@
 public Class Mergechk
 {
-<xmp>//this is comment
+//this is comment
 }
