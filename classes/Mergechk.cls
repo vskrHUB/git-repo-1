@@ -1,7 +1,7 @@
 public Class Mergechk
 {
-//changes to commit
+//changes to commit qde
 //this is comment uwiucwhqduhqoid
-//change for chk
-//more editing
+//change for chk assd
+//more editing adfg
 }
