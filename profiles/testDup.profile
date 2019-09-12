@@ -49,4 +49,7 @@
     <layoutAssignments>
         <layout>Book__c-Book Layout1</layout>
     </layoutAssignments>
+     <layoutAssignments>
+        <layout>Book__c-Book Layout1</layout>
+    </layoutAssignments>
 </Profile>
