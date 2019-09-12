@@ -59,6 +59,63 @@
 		<application>standard__Work</application>
 		<default>false</default>
 		<visible>false</visible>
+		<default>false</default>
+		<visible>true</visible>
+	</applicationVisibilities>
+	<applicationVisibilities>
+		<application>standard__Chatter</application>
+		<default>false</default>
+		<visible>true</visible>
+	</applicationVisibilities>
+	<applicationVisibilities>
+		<application>standard__Community</application>
+		<default>false</default>
+		<visible>true</visible>
+	</applicationVisibilities>
+	<applicationVisibilities>
+		<application>standard__Content</application>
+		<default>false</default>
+		<visible>false</visible>
+	</applicationVisibilities>
+	<applicationVisibilities>
+		<application>standard__Insights</application>
+		<default>false</default>
+		<visible>true</visible>
+	</applicationVisibilities>
+	<applicationVisibilities>
+		<application>standard__Marketing</application>
+		<default>false</default>
+		<visible>true</visible>
+	</applicationVisibilities>
+	<applicationVisibilities>
+		<application>standard__Platform</application>
+		<default>false</default>
+		<visible>false</visible>
+	</applicationVisibilities>
+	<applicationVisibilities>
+		<application>standard__Sales</application>
+		<default>true</default>
+		<visible>true</visible>
+	</applicationVisibilities>
+	<applicationVisibilities>
+		<application>standard__Service</application>
+		<default>false</default>
+		<visible>true</visible>
+	</applicationVisibilities>
+	<applicationVisibilities>
+		<application>standard__ServiceConsole</application>
+		<default>false</default>
+		<visible>false</visible>
+	</applicationVisibilities>
+	<applicationVisibilities>
+		<application>standard__Sites</application>
+		<default>false</default>
+		<visible>true</visible>
+	</applicationVisibilities>
+	<applicationVisibilities>
+		<application>standard__Work</application>
+		<default>false</default>
+		<visible>true</visible>
 	</applicationVisibilities>
 	<classAccesses>
 		<apexClass>Mergechk</apexClass>
