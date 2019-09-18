@@ -32,4 +32,24 @@
         <apexClass>A0189</apexClass>
         <enabled>false</enabled>
     </classAccesses>
+    <layoutAssignments>
+        <layout>Book__c-Book Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Book__c-Book Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Book__c-Book Layout</layout>
+        <recordType>Book__c.SamplerecordTypeName</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Book__c-Book Layout</layout>
+        <recordType>Book__c.SamplerecordTypeName</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Book__c-Book Layout1</layout>
+    </layoutAssignments>
+     <layoutAssignments>
+        <layout>Book__c-Book Layout1</layout>
+    </layoutAssignments>
 </Profile>

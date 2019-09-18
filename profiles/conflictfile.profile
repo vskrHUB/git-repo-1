@@ -8,7 +8,7 @@
 	<applicationVisibilities>
 		<application>standard__Chatter</application>
 		<default>false</default>
-		<visible>true</visible>
+		<visible>test</visible>
 	</applicationVisibilities>
 	<applicationVisibilities>
 		<application>standard__Community</application>
@@ -35,16 +35,16 @@
 		<default>false</default>
 		<visible>false</visible>
 	</applicationVisibilities>
-	<applicationVisibilities>
-		<application>standard__Sales</application>
-		<default>true</default>
-		<visible>true</visible>
-	</applicationVisibilities>
-	<applicationVisibilities>
-		<application>standard__Service</application>
+	<applicationVisibilities23>
+		<application>standard__Sales_test</application>
 		<default>false</default>
-		<visible>true</visible>
-	</applicationVisibilities>
+		<visible>false</visible>
+	</applicationVisibilities23>
+	<applicationVisibilities56>
+		<application>standard__Service_test</application>
+		<default>false</default>
+		<visible>false</visible>
+	</applicationVisibilities56>
 	<applicationVisibilities>
 		<application>standard__ServiceConsole</application>
 		<default>false</default>
@@ -56,9 +56,9 @@
 		<visible>true</visible>
 	</applicationVisibilities>
 	<applicationVisibilities>
-		<application>standard__Work</application>
-		<default>false</default>
-		<visible>true</visible>
+		<application>standard__Work11</application>
+		<default>true</default>
+		<visible>false</visible>
 	</applicationVisibilities>
 	<classAccesses>
 		<apexClass>Mergechk</apexClass>
