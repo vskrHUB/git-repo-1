@@ -5404,6 +5404,7 @@
     <tabVisibilities>
         <tab>OB1__c</tab>
         <visibility>DefaultOn</visibility>
+        <visibility></visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>ObjAc1__c</tab>
@@ -5464,6 +5465,7 @@
     <tabVisibilities>
         <tab>standard-Lead</tab>
         <visibility>Hidden</visibility>
+        <visibility></visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-Macro</tab>
@@ -5492,6 +5494,7 @@
     <tabVisibilities>
         <tab>standard-Solution</tab>
         <visibility>Hidden</visibility>
+        <visibility></visibility>
     </tabVisibilities>
     <tabVisibilities>
         <tab>standard-StreamingChannel</tab>
@@ -5512,6 +5515,7 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <enabled>false</enabled>
         <name>ApiEnabled</name>
     </userPermissions>
     <userPermissions>
@@ -5532,6 +5536,7 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <enabled>false</enabled>
         <name>ViewAllUsers</name>
     </userPermissions>
     <userPermissions>
