@@ -11,7 +11,7 @@
         <default>false</default>
         <visible>false</visible>
     </applicationVisibilities>
-     <applicationVisibilities>
+    <applicationVisibilities>
         <application>standard__Sites</application>
         <default>false</default>
         <visible>false</visible>

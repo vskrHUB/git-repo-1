@@ -5,6 +5,10 @@
         <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
+        <application>DX</application>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <applicationVisibilities>
         <application>standard__Community</application>
         <visible>true</visible>
     </applicationVisibilities>
@@ -32,6 +36,20 @@
         <enabled>true</enabled>
         <externalDataSource>OrderDB</externalDataSource>
     </externalDataSourceAccesses>
+    <externalDataSourceAccesses>
+        <enabled>true</enabled>
+        <externalDataSource>OrderDB</externalDataSource>
+    </externalDataSourceAccesses>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>A__c.Hello__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>A__c.Hello__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>A__c.Hello__c</field>
@@ -1884,4 +1902,8 @@
         <enabled>true</enabled>
         <name>ViewSetup</name>
     </userPermissions>
+       <userPermissions>
+        <enabled>true</enabled>
+        <name>ViewSetup</name>
+        </userPermissions>
 </PermissionSet>
