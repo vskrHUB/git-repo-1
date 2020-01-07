@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>39.0</version>
+    <version>44.0</version>
     <types>
+        <members>ApexTestCodeCoverageClass1</members>
+        <members>ApexTestCodeCoverageClass2</members>
         <members>Mergechk</members>
         <members>Mergechk23</members>
         <members>Sai123Class2</members>
+        <members>Sai159753Class2</members>
+        <members>Sai456Class2</members>
+        <members>SaiClas2s2</members>
         <members>SaiClass1</members>
         <members>SaiClass2</members>
+        <members>SaiClass2456123</members>
+        <members>TestClass</members>
+        <members>TheClass1</members>
+        <members>V123</members>
+        <members>checkforaddl</members>
         <members>test456</members>
         <members>test78</members>
         <members>test782</members>
@@ -31,14 +41,42 @@
         <members>Account.SLASerialNumber__c</members>
         <members>Contact.Level__c</members>
         <members>Lead.Primary__c</members>
+        <members>a11__c.test1__c</members>
+        <members>aw123__c.email_check__c</members>
+        <members>saiobj123__c.saiobj1filed1__c</members>
+        <members>saiobj2__c.saiobj2filed2__c</members>
+        <members>test456__c.testfiled456__c</members>
+        <members>test_123__c.testfield__c</members>
+        <members>test_a11__c.test_all_field_1__c</members>
         <name>CustomField</name>
     </types>
     <types>
+        <members>a112__c</members>
+        <members>aw123__c</members>
+        <members>saiobj123__c</members>
+        <members>saiobj2__c</members>
+        <members>test_123__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Vuta_Folder/Vuta_Dashboard</members>
         <members>Vuta_Folder/dashboard_1</members>
         <members>Vuta_Folder/dashboard_3</members>
+        <members>Vuta_Folder/dashboard_4</members>
         <name>Dashboard</name>
     </types>
     <types>
+        <members>Vuta_Folder</members>
+        <members>Vuta_Folder/test33.URL</members>
+        <members>Vuta_Folder/test_1.URL</members>
+        <members>Vuta_Folder/test_3.URL</members>
+        <members>Vuta_Folder/test_36.URL</members>
+        <members>Vuta_Folder/test_91.URL</members>
+        <members>Vuta_Folder/test_99.URL</members>
+        <members>Vuta_Folder/tets12.URL</members>
+        <members>Vuta_Folder/tets79.URL</members>
+        <members>Vuta_Folder/tets_02.URL</members>
+        <members>test_2</members>
         <members>test_2/test_2.URL</members>
         <name>Document</name>
     </types>
@@ -52,9 +90,90 @@
         <name>EmailTemplate</name>
     </types>
     <types>
+        <members>a112__c-a112 Layout</members>
+        <members>a112__c-a112s</members>
+        <members>a11__c-a11 Layout</members>
+        <members>a123__c-a123 Layout</members>
+        <members>a132__c-a132 Layout</members>
+        <members>a9__c-a9 Layout</members>
+        <members>a9__c-layout</members>
+        <members>aw123__c-aw123 Layout</members>
+        <members>saiobj123__c-saiobj1 Layout</members>
+        <members>saiobj2__c-saiobj2 Layout</members>
+        <members>test_123__c-test123 Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>Account.AllAccounts</members>
         <members>Account.MyAccounts</members>
         <members>Account.NewLastWeek</members>
         <name>ListView</name>
+    </types>
+    <types>
+        <members>dupFile</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>Analytics Cloud Integration User</members>
+        <members>Analytics Cloud Security User</members>
+        <members>Authenticated Website</members>
+        <members>Chatter External User</members>
+        <members>Chatter Free User</members>
+        <members>Chatter Moderator User</members>
+        <members>ContractManager</members>
+        <members>Cross Org Data Proxy User</members>
+        <members>Custom%3A Marketing Profile</members>
+        <members>Custom%3A Sales Profile</members>
+        <members>Custom%3A Support Profile</members>
+        <members>Force%2Ecom - App Subscription User</members>
+        <members>Force%2Ecom - Free User</members>
+        <members>Gold Partner User</members>
+        <members>Identity User</members>
+        <members>MarketingProfile</members>
+        <members>Partner App Subscription User</members>
+        <members>Partner Community Login User</members>
+        <members>Partner Community User</members>
+        <members>ReadOnly</members>
+        <members>Silver Partner User</members>
+        <members>SolutionManager</members>
+        <members>Standard</members>
+        <members>StandardAul</members>
+        <members>Work%2Ecom Only User</members>
+        <members>conflictfile</members>
+        <members>testDup</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>Testing_Reports/report_jointed_1</members>
+        <members>Testing_Reports/report_matrix_1</members>
+        <members>Testing_Reports/reportsummary1</members>
+        <members>Testing_Reports/reportsummary2</members>
+        <members>Testing_Reports/test_dashboard_1</members>
+        <members>Testing_Reports/testingreport2</members>
+        <members>Testing_Reports/testreport1</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>a112__c</members>
+        <members>a11__c</members>
+        <members>a123__c</members>
+        <members>a12__c</members>
+        <members>a132__c</members>
+        <members>a456__c</members>
+        <members>a9__c</members>
+        <members>as456__c</members>
+        <members>aw123__c</members>
+        <members>b19__c</members>
+        <members>h453__c</members>
+        <members>saiobj123__c</members>
+        <members>saiobj1__c</members>
+        <members>saiobj2__c</members>
+        <members>saoibj2__c</members>
+        <members>test123__c</members>
+        <members>test456__c</members>
+        <members>test_123__c</members>
+        <members>test_a11__c</members>
+        <name>SharingRules</name>
     </types>
 </Package>
