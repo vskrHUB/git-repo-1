@@ -4,6 +4,9 @@
     <types>
         <members>ApexTestCodeCoverageClass1</members>
         <members>ApexTestCodeCoverageClass2</members>
+        <members>Apex_Class1</members>
+        <members>Apex_Class12</members>
+        <members>Apex_Class2</members>
         <members>Mergechk</members>
         <members>Mergechk23</members>
         <members>Sai123Class2</members>
@@ -16,6 +19,7 @@
         <members>TestClass</members>
         <members>TheClass1</members>
         <members>V123</members>
+        <members>apex_Test_class3</members>
         <members>checkforaddl</members>
         <members>test456</members>
         <members>test78</members>
